@@ -2,7 +2,7 @@
 fami官方开发和维护的cordova插件，包括支付宝支付插件，分享插件，消息推送插件等，如果没有找到您需要的，请提交[ISSUE](https://github.com/fami2u/fami-plugin-lists/issues)给我们。
 # 开发计划
 - 支付插件
-- [ ] 支付宝支付插件
+- [x] 支付宝支付插件
 - [ ] 微信支付插件
 - social插件
 - [ ] 微博登录/分享插件
