@@ -12,7 +12,7 @@ fami官方开发和维护的cordova插件，包括支付宝支付插件，分享
 - [ ] 腾讯信鸽推送插件
 
 # 如何使用
-对于每一个插件，我们都会集成到`fami2u:cordova-plugin-tests`项目中，使用方式请参照这个例子。
+对于每一个插件，我们都会集成到`fami2u:cordova-plugin-lists`项目中，使用方式请参照这个例子。
 
 # usage
 
@@ -22,7 +22,7 @@ fami官方开发和维护的cordova插件，包括支付宝支付插件，分享
 - `cd fami-plugin-lists`
 - 查看当前安装的插件 `cordova plugin list`
 - 删除插件 `cordova plugin remove com.fami2u.plugin.*`
-- 安装插件 cordova-plugin-* 使用命令  `cordova plugin add ../plugin-dir` 
+- 安装插件 cordova-plugin-* 使用命令  `cordova plugin add ../$plugin-dir` 
 - 重新编译插件 `cordova build android||ios`
 
 > warning:
