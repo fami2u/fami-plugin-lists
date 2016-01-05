@@ -19,6 +19,7 @@ fami官方开发和维护的cordova插件，包括支付宝支付插件，分享
 - 下载插件源代码`git clone git@github.com:fami2u/cordova-plugin-alipay.git`
 - 下载`fami-plugin-lists`用于集成插件 `git clone git@github.com:fami2u/fami-plugin-lists.git`
 - 以上两个目录平级
+- `cd fami-plugin-lists`
 - 查看当前安装的插件 `cordova plugin list`
 - 删除插件 `cordova plugin remove com.fami2u.plugin.*`
 - 安装插件 cordova-plugin-* 使用命令  `cordova plugin add ../plugin-dir` 
